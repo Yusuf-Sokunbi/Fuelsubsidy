@@ -43,17 +43,19 @@
     position: absolute;
     top: 279.57px;
     left: 80px;
+    color:#FFF;
     }
     .scan{
     display: flex;
     align-items: center;
     gap: 8px;
-    width: 345px;
-    height: 99px;
+    /* width: 345px;
+    height: 99px; */
     position: absolute;
     top: 522px;
     left: 80.08px;
     background-color:#548688 ;
+    border: 1px solid #EDEDED;
     border-radius: 16px;
 }
 
@@ -62,7 +64,7 @@
  height: 75px;   
  width: 75px;
  padding: 12px;
- background-color: #000;
+ background-color: #FFFFFF;
  border-radius: 16px;
 }
 .scan p{
@@ -104,7 +106,7 @@
  position: absolute;
  top: 612.57px;
  left: 246.27px;
- border: 1px solid #fff;
+ /* border: 1px solid #fff; */
 }
 #img #two{
     width: 1352px;

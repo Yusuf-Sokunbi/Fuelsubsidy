@@ -19,10 +19,10 @@ components:{
 
 <style>
 .main-page{
-    position: relative;
+    position: absolute;
     width: 1440px;
-    height: auto;
-    background-color: blue;
+    height: 997px;
+    background-color: #000;
     
 }
 </style>
